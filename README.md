@@ -11,22 +11,22 @@ The main tasks required are as follows:
 
 ## Step 1: Create a Record Data Class
 
-![Alt_text](Screen Shot 2022-06-21 at 2.06.18 pm.png)
+![Alt_text](/Images/screenshot_1.png)
 
 ### Step 2: Modify the Existing Block Data Class to Store Record Data
 
-![alt=""](https://github.com/sarahm44/unit-18-assignment/Screen Shot 2022-06-21 at 2.06.26 pm.png)
+![Alt_text](/Images/screenshot_2.png)
 
 ### Step 3: Add Relevant User Inputs to the Streamlit Interface
 
-![alt=""](https://github.com/sarahm44/unit-18-assignment/Screen Shot 2022-06-21 at 2.06.56 pm.png)
+![Alt_text](/Images/screenshot_3.png)
 
 ### Step 4: Test the PyChain Ledger by Storing Records
 
 Enter values for the sender, receiver, and amount, and then click the Add Block button. Do this several times to store several blocks in the ledger.
 
-![alt=""](https://github.com/sarahm44/unit-18-assignment/Screen Shot 2022-06-21 at 2.04.59 pm.png)
+![Alt_text](/Images/screenshot_4.png)
 
 Test the blockchain validation process by using the web interface. 
 
-![alt=""](https://github.com/sarahm44/unit-18-assignment/Screen Shot 2022-06-21 at 2.05.18 pm.png)
+![Alt_text](/Images/screenshot_5.png)

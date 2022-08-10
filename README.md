@@ -1,4 +1,4 @@
-# Unit 18 Assignment - PyChain Ledger
+# PyChain Ledger
 
 ## Task Summary
 The main tasks required are as follows:

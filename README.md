@@ -4,7 +4,7 @@
 
 ## Overview
 
-In this repository my task was to build a blockchain-based ledger system, complete with a user-friendly web interface. 
+In this repository my task was to build a blockchain-based ledger system, complete with a user-friendly web interface (using [Streamlit](https://streamlit.io/)). 
 
 This ledger should allow individuals to conduct financial transactions (that is, to transfer money between senders and receivers) and to verify the integrity of the data in the ledger.
 
